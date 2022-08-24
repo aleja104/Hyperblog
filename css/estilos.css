@@ -44,3 +44,12 @@ padding: 0 0 0 1em;
 #post{
 padding: 1em;
 }
+
+#footer{
+
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
+
+}
